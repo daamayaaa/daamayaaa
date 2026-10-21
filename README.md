@@ -34,11 +34,13 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 
 | Área | Tecnologías |
 |---|---|
+| **Arquitectura** | Monolítica, Microservicios |
 | **Backend** | Java 8, Spring Boot, JPA/Hibernate, Lombok, Log4j2, Gson |
 | **Bases de datos** | PostgreSQL, Oracle (SQL / PL-SQL) |
 | **Servicios** | REST, SOAP, documentación con Swagger/springdoc |
 | **Seguridad** | Criptografía (AES, RSA), pruebas de seguridad, fuzzing |
-| **Herramientas** | Maven, Git, GitHub, Jenkins, Docker |
+| **Herramientas** | Maven, Git, GitHub, Jenkins, Docker, SonarQube, Nexus |
+| **Servidores** | Tomcat, WebSphere, WebLogic |
 
 ---
 
@@ -81,12 +83,14 @@ Monitor visual de instrumentos electrónicos. `Java`
 - **Asesoftware** (jul 2011 - sep 2015): desarrollo de software con JavaEE, Oracle PL/SQL, Primefaces, servicios REST/SOAP, SOAU-UI, Oracle WebLogic, UML.
 - **ADA S. A.** (dic 2015 - dic 2010): desarrollo de software con JavaEE, JSF, Hibernate, Oracle PL/SQL.
 - **Kaome Studio** (jul 2008 - oct 2008): desarrollo de software con PHP, MySQL.
-- **GFE Colombia** (jul 2008 - oct 2008): Mantenimiento de portales Wev con Joomla, HTML, Google Analytics.
+- **GFE Colombia** (sep 2007 - oct 2008): Mantenimiento de portales Wev con Joomla, HTML, Google Analytics.
+
 ---
 
 ## 📌 En lo que me enfoco
 
 - Arquitectura de software con Spring Boot (vistas y perspectivas de arquitectura)
+- Calidad en el ciclo de desarrollo: diseño, planificación y ejecución de pruebas de software
 - Seguridad en el ciclo de desarrollo: pruebas, verificación y criptografía
 - Gestión de proyectos de software: planeación, riesgos y control y seguimiento
 

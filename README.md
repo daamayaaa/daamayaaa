@@ -70,7 +70,7 @@ Monitor visual de instrumentos electrónicos. `Java`
 
 ### Formación
 - **Especialista en Desarrollo de Software** — Corporación Universitaria Minuto de Dios (UNIMINUTO), Facultad de Ingeniería. Construcción de software, frameworks web, verificación y pruebas de seguridad, y gestión de proyectos de software.
-- **Ingeniero de Sistemas** — Politécnico Grancolombiano, Facultad de Ingeniería. Ingeniería de software, frameworks web, análisis y diseño de algoritos y gestión de proyectos de software.
+- **Ingeniero de Sistemas** — Politécnico Grancolombiano, Facultad de Ingeniería. Ingeniería de software, frameworks web, análisis y diseño de algoritmos y gestión de proyectos de software.
 - **Tecnólogo en Informática** — Corporación Universitaria Minuto de Dios (UNIMINUTO), Facultad de Ingeniería. Ingeniería de software, lenguajes de programación, bases de datos y sistemas operativos.
 
 ### Experiencia profesional

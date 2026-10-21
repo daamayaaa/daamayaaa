@@ -1,10 +1,10 @@
 <h1 align="center">Hola, soy Diego A. Amaya A. 👋</h1>
 
-<h3 align="center">Ingeniero de Software · Java · Spring Boot · Seguridad de Software</h3>
+<h3 align="center">Ingeniero de Software · Java · Spring Boot · Arquitectura de Software · Seguridad en el Desarrollo de Software</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damayaarjona"><img src="https://img.shields.io/badge/LinkedIn-damayaarjona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:TU_CORREO@dominio.com"><img src="https://img.shields.io/badge/Correo-TU__CORREO@dominio.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
+  <a href="mailto:calderonenator@gmail.com"><img src="https://img.shields.io/badge/calderonenator@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
   <a href="https://github.com/daamayaaa"><img src="https://img.shields.io/badge/GitHub-daamayaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -12,11 +12,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL y servicios REST/SOAP**, y formación en **Desarrollo de Aplicaciones Web** en UNIMINUTO (Facultad de Ingeniería). Me interesa construir servicios backend claros y mantenibles, diseñar arquitectura de software y verificar la seguridad de lo que desarrollo.
+Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL y servicios REST/SOAP**, y formación en **Desarrollo de Aplicaciones Web** en UNIMINUTO (Facultad de Ingeniería). Me interesa construir servicios backend claros y mantenibles, diseñar arquitectura de software y verificar la seguridad de lo que desarrollo.
 
-- 🏗️ Diseño de arquitectura de software y APIs REST
-- 🔐 Verificación y pruebas de seguridad (fuzzing, detección de vulnerabilidades, criptografía)
-- 📚 Código simple y explicable, con enfoque didáctico
+- 🏗️ Diseño de arquitectura de software y desarrollo de APIs REST.
+- 🔐 Verificación y pruebas de seguridad (fuzzing, detección de vulnerabilidades, criptografía).
+- 📚 Código simple y explicable.
 
 ---
 
@@ -37,7 +37,7 @@ Desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL 
 | **Bases de datos** | PostgreSQL, Oracle (SQL / PL-SQL) |
 | **Servicios** | REST, SOAP, documentación con Swagger/springdoc |
 | **Seguridad** | Criptografía (AES, RSA), pruebas de seguridad, fuzzing |
-| **Herramientas** | Maven, Git, GitHub |
+| **Herramientas** | Maven, Git, GitHub, Jenkins, Docker |
 
 ---
 
@@ -66,12 +66,21 @@ Monitor visual de instrumentos electrónicos. `Java`
 ## 🎓 Formación y experiencia
 
 ### Formación
-- **Desarrollo de Aplicaciones Web (DAW)** — Corporación Universitaria Minuto de Dios (UNIMINUTO), Facultad de Ingeniería. Construcción de software, frameworks web, verificación y pruebas de seguridad, y gestión de proyectos de software.
+- **Especialista en Desarrollo de Software** — Corporación Universitaria Minuto de Dios (UNIMINUTO), Facultad de Ingeniería. Construcción de software, frameworks web, verificación y pruebas de seguridad, y gestión de proyectos de software.
+- **Ingeniero de Sistemas** — Politécnico Grancolombiano, Facultad de Ingeniería. Ingeniería de software, frameworks web, análisis y diseño de algoritos y gestión de proyectos de software.
+- **Tecnólogo en Informática** — Corporación Universitaria Minuto de Dios (UNIMINUTO), Facultad de Ingeniería. Ingeniería de software, lenguajes de programación, bases de datos y sistemas operativos.
 
 ### Experiencia profesional
 - **Globant** (sep 2021 – may 2022): desarrollo de software con Java y Spring Boot.
-- **VASS Latam** (hasta jun 2020): desarrollo con Java/Spring Boot, Oracle PL/SQL y servicios REST/SOAP.
-
+- **VASS Latam** (hasta jun 2020): desarrollo de software con Java/Spring Boot, Oracle PL/SQL y servicios REST.
+- **Amaris** (jun 2019 - oct 2020): desarrollo de software con Java/Spring Boot, Oracle PL/SQL y servicios REST.
+- **TryCore** (ene 2018 - feb 2089): arquitectura de software, desarrollo de software con Java/Spring Boot, servicios REST.
+- **Indra - Tecnocom** (jun 2016 - nov 2017): desarrollo de software con Java/Spring Boot, Angular, JavaEE y servicios SOAP.
+- **Kibernum** (dic 2015 - may 2016): desarrollo de software con JavaEE, Oracle PL/SQL.
+- **Asesoftware** (jul 2011 - sep 2015): desarrollo de software con JavaEE, Oracle PL/SQL, Primefaces, servicios REST/SOAP, SOAU-UI, Oracle WebLogic, UML.
+- **ADA S. A.** (dic 2015 - dic 2010): desarrollo de software con JavaEE, JSF, Hibernate, Oracle PL/SQL.
+- **Kaome Studio** (jul 2008 - oct 2008): desarrollo de software con PHP, MySQL.
+- **GFE Colombia** (jul 2008 - oct 2008): Mantenimiento de portales Wev con Joomla, HTML, Google Analytics.
 ---
 
 ## 📌 En lo que me enfoco
@@ -93,6 +102,6 @@ Monitor visual de instrumentos electrónicos. `Java`
 
 ## 📫 Contacto
 
-¿Hablamos de un proyecto o una oportunidad? Escríbeme a **TU_CORREO@dominio.com** o por [LinkedIn](https://www.linkedin.com/in/damayaarjona).
+¿Hablamos de un proyecto o una oportunidad? Escríbeme a **calderonenator@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/damayaarjona).
 
 <p align="center"><i>"Código simple, claro y seguro."</i></p>

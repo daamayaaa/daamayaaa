@@ -12,9 +12,10 @@
 
 ## 👨‍💻 Sobre mí
 
-Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL y servicios REST/SOAP**, y formación en **Desarrollo de Aplicaciones Web** en UNIMINUTO (Facultad de Ingeniería). Me interesa construir servicios backend claros y mantenibles, diseñar arquitectura de software y verificar la seguridad de lo que desarrollo.
+Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL y servicios REST/SOAP**, y formación en **Desarrollo de Aplicaciones Web Empresariales**. Me interesa construir aplicaciones backend claras y mantenibles, diseñar arquitectura de software, garantizar la calidad del software y verificar la seguridad de lo que desarrollo.
 
 - 🏗️ Diseño de arquitectura de software y desarrollo de APIs REST.
+- 🔐 Diseño y ejecución de pruebas (unitarias, funcionales, desempeño, sistema, integración, aceptación).
 - 🔐 Verificación y pruebas de seguridad (fuzzing, detección de vulnerabilidades, criptografía).
 - 📚 Código simple y explicable.
 

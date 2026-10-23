@@ -46,11 +46,17 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 
 ## 🏅 Certificaciones
 
-<p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/0b1c8f85-57a3-4b9d-a719-86c43ee9892d">
-    <img src="agile_ibm.png" alt="IBM Agile Explorer" width="120">
+<p>
+
+  
+  <a href="https://www.credly.com/earner/earned/badge/0b1c8f85-57a3-4b9d-a719-86c43ee9892d" target="_blank">
+    <img src="assets/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/xxxx-2" target="_blank">
+    <img src="assets/agile_ibm.png" alt="IBM Agile Explorer" width="120" />
   </a>
 </p>
+
 ---
 
 ## 🚀 Proyectos destacados

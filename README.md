@@ -78,7 +78,7 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/problem_solving_intermediate_hackerrank.png" alt="Problem Solving (Intermediate) Certificate" width="120" />
   </a>
   <a href="https://www.hackerrank.com/certificates/iframe/762b77eec78c" target="_blank">
-    <img src="assets/problem_solving_basic_hackerrank.  png" alt="Problem Solving (Basic) Certificate" width="120" />
+    <img src="assets/problem_solving_basic_hackerrank.png" alt="Problem Solving (Basic) Certificate" width="120" />
   </a>
   <a href="https://www.hackerrank.com/certificates/iframe/5b825cd1f878" target="_blank">
     <img src="assets/problem_solving_advanced_hackerrank.png" alt="Problem Solving (Advanced) Certificate" width="120" />

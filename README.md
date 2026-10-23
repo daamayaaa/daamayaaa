@@ -83,6 +83,35 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
   <a href="https://www.hackerrank.com/certificates/iframe/5b825cd1f878" target="_blank">
     <img src="assets/problem_solving_advanced_hackerrank.png" alt="Problem Solving (Advanced) Certificate" width="120" />
   </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/41671074b7d5" target="_blank">
+    <img src="assets/java_basic_hackerrank.png" alt="Java (Basic) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/0f641e335e7b" target="_blank">
+    <img src="assets/sql_basic_hackerrank.png" alt="SQL (Basic) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/10ef8c3a279b" target="_blank">
+    <img src="assets/sql_basic_hackerrank.png" alt="SQL (Basic) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/0f641e335e7b" target="_blank">
+    <img src="assets/sql_intermediate_hackerrank.png" alt="SQL (Intermediate) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/c33f51f95b8f" target="_blank">
+    <img src="assets/rest_intermediate_hackerrank.png" alt="Rest API (Intermediate) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/bd28d1c5e428" target="_blank">
+    <img src="assets/angular_basic_hackerrank.png" alt="Angular (Basic) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/445353a9e946" target="_blank">
+    <img src="assets/sql_advanced_hackerrank.png" alt="SQL (Advanced) Certificate" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/c43841f75b50" target="_blank">
+    <img src="assets/software_engineer_hackerrank.png" alt="Software Engineer" width="120" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/a85bfb85e57e" target="_blank">
+    <img src="assets/software_engineer_intern_hackerrank.png" alt="Software Engineer Intern" width="120" />
+  </a>
+
+  
 </p>
 
 ---

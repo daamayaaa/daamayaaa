@@ -53,6 +53,33 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
   <a target="_blank">
     <img src="assets/java_hackerrank.png" alt="Hackerrank - Java" width="120" />
   </a>
+  <a target="_blank">
+    <img src="assets/problem_solving_hackerrank.png" alt="Hackerrank - Problem Solving" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/problem_solving_hackerrank.png" alt="Hackerrank - Problem Solving" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/python_hackerrank.png" alt="Hackerrank - Python" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/python_hackerrank.png" alt="Hackerrank - Python" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/30_days_of_code_hackerrank.png" alt="Hackerrank - 30 days of code" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/10_days_of_js_hackerrank.png" alt="Hackerrank - 10 days of JS" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/10_days_of_statistics_hackerrank.png" alt="Hackerrank - 10 days of Statistics" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/sql_hackerrank.png" alt="Hackerrank - SQL" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/ruby_hackerrank.png" alt="Hackerrank - Ruby" width="120" />
+  </a>
   <a href="https://www.hackerrank.com/certificates/iframe/ac06ff896037" target="_blank">
     <img src="assets/problem_solving_intermediate_hackerrank.png" alt="Problem Solving (Intermediate) Certificate" width="120" />
   </a>

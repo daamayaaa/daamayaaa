@@ -50,6 +50,9 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
   <a href="https://www.credly.com/earner/earned/badge/0b1c8f85-57a3-4b9d-a719-86c43ee9892d" target="_blank">
     <img src="assets/agile_ibm.png" alt="IBM Agile Explorer" width="120" />
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/0e7d5eeb-d5bc-497f-b349-2559c226f1dc" target="_blank">
+    <img src="assets/business_model_canvas_certiprof.png" alt="Business Model Canvas - Certiprof" width="120" />
+  </a>
   <a target="_blank">
     <img src="assets/java_hackerrank.png" alt="Hackerrank - Java" width="120" />
   </a>

@@ -47,6 +47,9 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 ## 🏅 Certificaciones
 
 <p>
+  <a href="https://certmind.org/platform/public/index.php/mycertificate/download/33333" target="_blank">
+    <img src="assets/software_leader_professional_certification_certiprof.png" alt="Scrum Fundamentals (CM-SFC) - Certmind" width="120" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/1b74587c-07fa-4102-ad63-f43afdd87eef" target="_blank">
     <img src="assets/software_leader_professional_certification_certiprof.png" alt="Software Project Leader Professional Certification (SPLPC) - Certiprof" width="120" />
   </a>

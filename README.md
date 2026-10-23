@@ -69,7 +69,7 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/10_days_of_statistics_hackerrank.png" alt="Hackerrank - 10 days of Statistics" width="120" />
   </a>
   <a target="_blank">
-    <img src="assets/sql_hackerrank.png" alt="Hackerrank - SQL" width="120" />
+    <img src="assets/sql_hackerrank.png" alt="SQL - Hackerrank" width="120" />
   </a>
   <a target="_blank">
     <img src="assets/ruby_hackerrank.png" alt="Hackerrank - Ruby" width="120" />

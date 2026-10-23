@@ -57,12 +57,6 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/problem_solving_hackerrank.png" alt="Hackerrank - Problem Solving" width="120" />
   </a>
   <a target="_blank">
-    <img src="assets/problem_solving_hackerrank.png" alt="Hackerrank - Problem Solving" width="120" />
-  </a>
-  <a target="_blank">
-    <img src="assets/python_hackerrank.png" alt="Hackerrank - Python" width="120" />
-  </a>
-  <a target="_blank">
     <img src="assets/python_hackerrank.png" alt="Hackerrank - Python" width="120" />
   </a>
   <a target="_blank">

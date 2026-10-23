@@ -47,6 +47,9 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 ## 🏅 Certificaciones
 
 <p>
+  <a href="https://www.credly.com/earner/earned/badge/1b74587c-07fa-4102-ad63-f43afdd87eef" target="_blank">
+    <img src="assets/software_leader_professional_certification_certiprof.png" alt="Software Project Leader Professional Certification (SPLPC) - Certiprof" width="120" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/0b1c8f85-57a3-4b9d-a719-86c43ee9892d" target="_blank">
     <img src="assets/agile_ibm.png" alt="IBM Agile Explorer" width="120" />
   </a>

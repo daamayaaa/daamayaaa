@@ -96,7 +96,7 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/sql_intermediate_hackerrank.png" alt="SQL (Intermediate) Certificate" width="120" />
   </a>
   <a href="https://www.hackerrank.com/certificates/iframe/c33f51f95b8f" target="_blank">
-    <img src="assets/rest_intermediate_hackerrank.png" alt="Rest API (Intermediate) Certificate" width="120" />
+    <img src="assets/rest_api_intermediate_hackerrank.png" alt="Rest API (Intermediate) Certificate" width="120" />
   </a>
   <a href="https://www.hackerrank.com/certificates/iframe/bd28d1c5e428" target="_blank">
     <img src="assets/angular_basic_hackerrank.png" alt="Angular (Basic) Certificate" width="120" />

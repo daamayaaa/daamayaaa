@@ -81,10 +81,10 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/cisco_introduction_cibersecurity.png" alt="CISCO - Introduction to Cybersecurity" width="120" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/655ddacb-3192-422b-a828-206f3247824a" target="_blank">
-    <img src="assets/cisco_python_essentials_1" alt="CISCO - Python Essentials 1" width="120" />
+    <img src="assets/cisco_python_essentials_1.png" alt="CISCO - Python Essentials 1" width="120" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/e9584a80-c01a-4892-a751-c656867b450d" target="_blank">
-    <img src="assets/cisco_python_essentials_2" alt="CISCO - Python Essentials 2" width="120" />
+    <img src="assets/cisco_python_essentials_2.png" alt="CISCO - Python Essentials 2" width="120" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/0e7d5eeb-d5bc-497f-b349-2559c226f1dc" target="_blank">
     <img src="assets/business_model_canvas_certiprof.png" alt="Business Model Canvas - Certiprof" width="120" />

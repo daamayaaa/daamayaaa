@@ -10,6 +10,12 @@
 
 ---
 
+ <p align="center">
+   <img src="assets/tarjeta_presentacion_daamayaaa.png" width="500" alt="Tarjeta de presentación">
+ </p>
+
+---
+
 ## 👨‍💻 Sobre mí
 
 Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, Oracle PL/SQL y servicios REST/SOAP**, y formación en **Desarrollo de Aplicaciones Web Empresariales**. Me interesa construir aplicaciones backend claras y mantenibles, diseñar arquitectura de software, garantizar la calidad del software y verificar la seguridad de lo que desarrollo.

@@ -146,8 +146,15 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
   <a href="https://www.hackerrank.com/certificates/iframe/a85bfb85e57e" target="_blank">
     <img src="assets/software_engineer_intern_hackerrank.png" alt="Software Engineer Intern" width="120" />
   </a>
-
-  
+  <a target="_blank">
+    <img src="assets/oracle_java_foundations.png" alt="Oracle Java Foundations" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/oracle_java_learning_explorer.png" alt="Oracle Java Learning Explorer" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/oracle_learning_explorer.png" alt="Oracle Learning Explorer" width="120" />
+  </a>
 </p>
 
 ---

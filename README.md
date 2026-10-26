@@ -159,7 +159,10 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
     <img src="assets/oracle_java_learning_explorer.png" alt="Oracle Java Learning Explorer" width="120" />
   </a>
   <a target="_blank">
-    <img src="assets/oracle_learning_explorer.png" alt="Oracle Learning Explorer" width="120" />
+    <img src="assets/oracle_learning_explorer.png" alt="Oracle SQL Learning Explorer" width="120" />
+  </a>
+  <a target="_blank">
+    <img src="assets/oracle_database_explorer.png" alt="Oracle Database Learning Explorer" width="120" />
   </a>
 </p>
 

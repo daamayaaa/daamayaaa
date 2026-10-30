@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Diego A. Amaya A. 👋</h1>
 
-<h3 align="center">Ingeniero de Software · Java · Spring Boot · Arquitectura de Software · Seguridad en el Desarrollo de Software</h3>
+<h3 align="center">Ingeniero de Sistemas · Java · Spring Boot · Arquitectura de Software · Ingeniería de Software · Seguridad en el Desarrollo de Software</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damayaarjona"><img src="https://img.shields.io/badge/LinkedIn-damayaarjona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -47,6 +47,38 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 | **Seguridad** | Criptografía (AES, RSA), pruebas de seguridad, fuzzing |
 | **Herramientas** | Maven, Git, GitHub, Jenkins, Docker, SonarQube, Nexus |
 | **Servidores** | Tomcat, WebSphere, WebLogic |
+
+---
+
+## 🛠️ Tecnologías que manejo
+
+### Lenguajes
+![Java](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Backend y frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Seguridad
+![AES](https://img.shields.io/badge/Cifrado_AES-0A66C2?style=for-the-badge)
+![RSA](https://img.shields.io/badge/Criptograf%C3%ADa_RSA-0A66C2?style=for-the-badge)
+![Pruebas de seguridad](https://img.shields.io/badge/Verificaci%C3%B3n_y_pruebas_de_seguridad-0A66C2?style=for-the-badge)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge)
+![Log4j2](https://img.shields.io/badge/Log4j2-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 

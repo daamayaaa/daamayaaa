@@ -225,7 +225,7 @@ Monitor visual de instrumentos electrónicos. `Java`
 - **Globant** (sep 2021 – may 2022): desarrollo de software con Java y Spring Boot.
 - **VASS Latam** (hasta jun 2020): desarrollo de software con Java/Spring Boot, Oracle PL/SQL y servicios REST.
 - **Amaris** (jun 2019 - oct 2020): desarrollo de software con Java/Spring Boot, Oracle PL/SQL y servicios REST.
-- **TryCore** (ene 2018 - feb 2089): arquitectura de software, desarrollo de software con Java/Spring Boot, servicios REST.
+- **TryCore** (ene 2018 - feb 2019): arquitectura de software, desarrollo de software con Java/Spring Boot, servicios REST.
 - **Indra - Tecnocom** (jun 2016 - nov 2017): desarrollo de software con Java/Spring Boot, Angular, JavaEE y servicios SOAP.
 - **Kibernum** (dic 2015 - may 2016): desarrollo de software con JavaEE, Oracle PL/SQL.
 - **Asesoftware** (jul 2011 - sep 2015): desarrollo de software con JavaEE, Oracle PL/SQL, Primefaces, servicios REST/SOAP, SOAU-UI, Oracle WebLogic, UML.

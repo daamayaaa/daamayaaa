@@ -27,30 +27,7 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 
 ---
 
-## 🛠️ Stack técnico
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-| Área | Tecnologías |
-|---|---|
-| **Arquitectura** | Monolítica, Microservicios |
-| **Backend** | Java 8, Spring Boot, JPA/Hibernate, Lombok, Log4j2, Gson |
-| **Bases de datos** | PostgreSQL, Oracle (SQL / PL-SQL) |
-| **Servicios** | REST, SOAP, documentación con Swagger/springdoc |
-| **Seguridad** | Criptografía (AES, RSA), pruebas de seguridad, fuzzing |
-| **Herramientas** | Maven, Git, GitHub, Jenkins, Docker, SonarQube, Nexus |
-| **Servidores** | Tomcat, WebSphere, WebLogic |
-
----
-
-## 🛠️ Tecnologías que manejo
+## 🛠️ Stack técnico - Tecnologías que manejo
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,6 +56,18 @@ Arquitecto y desarrollador de software con experiencia en **Java, Spring Boot, O
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge)
 ![Log4j2](https://img.shields.io/badge/Log4j2-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+| Área | Tecnologías |
+|---|---|
+| **Arquitectura** | Monolítica, Microservicios |
+| **Backend** | Java 8, Spring Boot, JPA/Hibernate, Lombok, Log4j2, Gson |
+| **Bases de datos** | PostgreSQL, Oracle (SQL / PL-SQL) |
+| **Servicios** | REST, SOAP, documentación con Swagger/springdoc |
+| **Seguridad** | Criptografía (AES, RSA), pruebas de seguridad, fuzzing |
+| **Herramientas** | Maven, Git, GitHub, Jenkins, Docker, SonarQube, Nexus |
+| **Servidores** | Tomcat, WebSphere, WebLogic |
 
 ---
 
